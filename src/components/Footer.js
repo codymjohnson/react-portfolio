@@ -13,7 +13,7 @@ function Footer() {
                         <strong>View my <a href="https://github.com/codymjohnson" target="_blank" rel="noopener noreferrer">Github</a> and my <a href="https://www.linkedin.com/in/cody-johnson-876554a1/" target="_blank" rel="noopener noreferrer">LinkedIn</a></strong>
                     </Col>
                     <Col className="p-0 d-flex justify-content-center" md={3}>
-                        <strong>Nothing like Programming in the morning Amirite?</strong>
+                        <strong>I can also be reached via Email: cmichael.johnson@outlook.com or phone: 970-690-8959</strong>
                     </Col>
                 </Row>
             </Container>
