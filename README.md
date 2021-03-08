@@ -1,4 +1,4 @@
-# Weather-App
+# react-portfolio
 
 ## Deployed Link
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-A weather app that uses a weather API and JQuery to pull in weather data for the next 5 days depending on the imputed city.
+A Professional portfolio I created using React, showcasing projects, contacts and important links.
 
 ## Table of Contents
 
