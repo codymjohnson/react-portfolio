@@ -10,10 +10,10 @@ function Footer() {
             <Container fluid={true}>
                 <Row className="border-top justify-content-between p-3">
                     <Col className="p-0" md={3} sm={12}>
-                        Cody Johnson
+                        <strong>View my <a href="https://github.com/codymjohnson" target="_blank" rel="noopener noreferrer">Github</a> and my <a href="https://www.linkedin.com/in/cody-johnson-876554a1/" target="_blank" rel="noopener noreferrer">LinkedIn</a></strong>
                     </Col>
-                    <Col className="p-0 d-flex justify-content-end" md={3}>
-                        Nothing like Programming in the morning Amirite?
+                    <Col className="p-0 d-flex justify-content-center" md={3}>
+                        <strong>Nothing like Programming in the morning Amirite?</strong>
                     </Col>
                 </Row>
             </Container>
